@@ -613,6 +613,7 @@
 
 
 
+
 @media(max-width: 1090px){
      .hero-texts{
            width: 100%;
@@ -648,6 +649,14 @@
      .about-section-column h2{
             font-size: 28px;
      }
+
+     .donation-section-content{
+           width: 90%;
+     }
+
+     .blog-row{
+           grid-template-columns: 1fr;
+     }
 }
 
 @media(max-width: 768px){
@@ -678,6 +687,18 @@
       .about-section-column:nth-child(1) img{
           height:450px;
           width: 100%;
+      }
+
+      .donation-section-content h2,
+      .blog-intro h2{
+            font-size: 40px;
+      }
+      .donation-section-content p{
+           font-size: 18px;
+      }
+      .donation-section{
+            height: auto;
+            padding: 80px 0;
       }
 }
 

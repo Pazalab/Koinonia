@@ -7,6 +7,7 @@ import ProgramsSection from "../components/home/ProgramsSection"
 import AboutSection2 from "../components/home/AboutSection2"
 import DonationSection from "../components/home/DonationSection"
 import BlogSection from "../components/home/BlogSection"
+import Footer from "../components/common/Footer"
 const Home = () => {
   return (
     <>
@@ -18,6 +19,7 @@ const Home = () => {
             <AboutSection2 />
             <DonationSection />
             <BlogSection />
+            <Footer />
     </>
   )
 }
