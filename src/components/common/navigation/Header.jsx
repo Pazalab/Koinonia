@@ -21,11 +21,11 @@ const Header = () => {
                                                        <li><NavLink to={"/who-we-are"}>Who We Are</NavLink></li>
                                                        <li><NavLink to={"/what-we-do"}>What We Do</NavLink></li>
                                                        <li><NavLink to={"/articles"}>Articles</NavLink></li>
-                                                       <li><NavLink to={"/contact-us"}>Contacts</NavLink></li>
+                                                       <li><NavLink to={"/get-in-touch"}>Contact Us</NavLink></li>
                                               </ul>
                                       </nav>
                                       <div className="header-action">
-                                                <Link to={"/donate"}>Donate Today <span><GoHeartFill /></span></Link>
+                                                <Link to={"/donate-today"}>Donate Today <span><GoHeartFill /></span></Link>
 
                                                 <span className="menu-btn" onClick={() => setSidebarStatus(true)}><TbMenu4 /></span>
                                       </div>

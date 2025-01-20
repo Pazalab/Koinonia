@@ -80,7 +80,7 @@ const Sidebar = () => {
                                                      </li>
                                                      <li><NavLink to={"/what-we-do"}>What We Do</NavLink></li>
                                                      <li><NavLink to={"/articles"}>Articles</NavLink></li>
-                                                     <li><NavLink to={"/contact-us"}>Contact Us</NavLink></li>
+                                                     <li><NavLink to={"/get-in-touch"}>Contact Us</NavLink></li>
                                              </ul>
 
                                              <Link to={"/donate"} className="donate-btn">Donate <span><GoHeartFill /></span></Link>

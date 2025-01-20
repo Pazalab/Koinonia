@@ -1,0 +1,27 @@
+.articles-body{
+     padding: 100px 0
+}
+
+.articles-body-intro{
+       text-align: center;
+}
+.articles-body-intro h3{
+    text-transform: uppercase;
+    font-size: 15px;
+}
+.articles-body-intro h1{
+       font-size: 60px;
+}
+
+
+@media(max-width: 768px){
+      .articles-body-intro h1{
+            font-size: 45px;
+      }
+}
+
+@media(max-width: 530px){
+       .about-body-intro h1{
+             font-size: 40px;
+       }
+}
