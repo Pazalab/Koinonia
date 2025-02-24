@@ -13,7 +13,7 @@ const Home = () => {
     <>
             <Navbar />
             <HeroSection />
-            <PartnersSection />
+            {/* <PartnersSection /> */}
             <ProgramsSection />
             <ActivitiesStrip />
             <AboutSection2 />

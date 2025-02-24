@@ -15,22 +15,22 @@ const ContactBody = () => {
                                                                              <span><BsPinMapFill /></span>                                               
                                                                              <div className="contact-detail-texts">
                                                                                          <h4>Visit Us</h4>
-                                                                                         <p>3346 Dolfield Ave Karen, Nairobi - Kenya</p>
+                                                                                         <p>829 Rosemarie Lane, Suite 1, Stockton, CA 95207</p>
                                                                              </div>
                                                                 </div>
                                                                 <div className="contact-detail-moja">
                                                                              <span><BsEnvelopeAtFill /></span>
                                                                              <div className="contact-detail-texts">
                                                                                        <h4>Connect Via</h4>
-                                                                                       <p>support@koinoniakingdom.org</p>
-                                                                                       <p>info@koinoniakingdom.org</p>
+                                                                                       
+                                                                                       <p>info@koinoniakingdom.com</p>
                                                                              </div>
                                                                 </div>
                                                                 <div className="contact-detail-moja">
                                                                              <span><GiRotaryPhone /></span>
                                                                              <div className="contact-detail-texts">
                                                                                        <h4>Reach out</h4>
-                                                                                       <p>(+254) 822 34587</p>
+                                                                                       <p>+254 7151 36561</p>
                                                                              </div>
                                                                 </div>
                                                    </div>

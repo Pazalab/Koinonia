@@ -7,8 +7,8 @@ const DonationSection = () => {
              <div className="inner-row">
                          <div className="donation-section-content">
                                       <h3>Get Involved</h3>
-                                      <h2>Bring Hope to a Child Today</h2>
-                                      <p>Your support can transform the life of a vulnerable child. By donating, you provide essentials like food, shelter, education, and a safe environment for children in need. Together, we can restore hope, nurture potential, and create brighter futures for these children. Every contribution, no matter the size, makes a profound difference. Join us in being a beacon of love and compassion — impact a child’s life today and inspire others to do the same.</p>
+                                      <h2>Join Us in Spreading Love & Light</h2>
+                                      <p>Through your generosity, lives are touched, souls are uplifted, and communities are restored. Be part of this great mission in making a difference for God&apos;s glory.</p>
                                       <Link to={'/donate-today'}>Donate Now <span><LuMoveRight /></span></Link>
                          </div>
              </div>

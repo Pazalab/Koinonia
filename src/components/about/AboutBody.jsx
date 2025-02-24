@@ -42,25 +42,27 @@ const AboutBody = () => {
                        <div className="values-section">
                                  <h2>Our Value System</h2>
                                  <div className="values-section-row">
-                                              <div className="value-moja">
-                                                        <img src={faith} alt="" />
-                                                        <h3>God as our Cornerstone</h3>
-                                                        <p>Our work is deeply root in unwavering faith, with God at the center of everything we do. We rely on His guidance and grace to inspire hope and transformation in the lives of those we serve</p>
-                                              </div>
+                                            
                                               <div className="value-moja">
                                                         <img src={love} alt="" />
                                                         <h3>Love in Action</h3>
-                                                        <p>Inspired by Christ’s example of unconditional love, we extend care and kindness to the vulnerable and less fortunate. Compassion fuels our mission, driving us to provide comfort and support wherever it is needed most.</p>
+                                                        <p>We believe that love is more than just words—it is demonstrated through acts of kindness, generosity, and service. Whether it&apos;s feeding the hungry, caring for orphans, or ministering to the lost, we are committed to showing the love of Christ in practical ways that transform lives.</p>
+                                              </div>
+                                              <div className="value-moja">
+                                                        
+                                                        <img src={integrity} alt="" />
+                                                        <h3>Restoration & Redemption</h3>
+                                                        <p>We reach out to the broken, the lost, and the forgotten, believing that no one is beyond God&apos;s grace. Through discipleship, rehabilitation, and empowerment programs, we walk alongside individuals as they experience healing, restoration, and a fresh start in Christ.</p>
                                               </div>
                                               <div className="value-moja">
                                                         <img src={community} alt="" />
-                                                        <h3>United for a Greater Purpose</h3>
-                                                        <p>We believe in the strength of unity and collaboration. By cultivating a spirit of togetherness, we unite people to create meaningful, lasting change that uplifts individuals and empowers entire communities.</p>
+                                                        <h3>Empowering for Impact</h3>
+                                                        <p>We don&apos;t just offer temporary relief; we equip individuals and communities with the tools, skills, and resources they need to break cycles of poverty, addiction, and hopelessness. We help people discover their God-given potential and step into a future of purpose.</p>
                                               </div>
                                               <div className="value-moja">
-                                                        <img src={integrity} alt="" />
-                                                        <h3>Guided by Truth and Honesty</h3>
-                                                        <p>We are committed to operating with transparency, honesty and accountability. Integrity guides our decisions and actions, ensuring we remain true to our values and our calling to serve for God&apos;s glory.</p>
+                                                     <img src={faith} alt="" />
+                                                        <h3>Faith in Action</h3>
+                                                        <p>We trust in God&apos;s power to change lives, and we boldly step out in faith to go where He leads us. We act on our faith by bringing the Gospel to the most challenging places, believing that transformation happens when we obey God&apos;s call.</p>
                                               </div>
                                  </div>
                        </div>

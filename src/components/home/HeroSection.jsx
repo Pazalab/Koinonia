@@ -11,7 +11,7 @@ const HeroSection = () => {
                                       <div className="hero-texts">
                                                <h1>Transforming Lives through <span className="blueish">Faith</span> and Meaningful <span className="orangish">Service</span>.</h1>
                                                 <div className="hero-btns">
-                                                             <Link to={"/"}>Explore More <span><LuMoveRight /></span></Link>
+                                                             <Link to={"/what-we-do"}>Explore More <span><LuMoveRight /></span></Link>
                                                 </div>
                                       </div>
 

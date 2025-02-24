@@ -18,7 +18,7 @@ const ProgramsSection = () => {
                                                          <p>We are a mission-driven NGO dedicated to transforming lives and uplifting communities through faith, compassion, and purposeful action. Our work is guided by a commitment to service, collaboration, and creating meaningful impact, both locally and globally. Together, we strive to build a world where hope and opportunity reach every corner.</p>
                                                </div>
                                                <div className="programs-intro-column">
-                                                         <Link to={"/"}>All Programs <span><LuMoveRight /></span>
+                                                         <Link to={"/what-we-do"}>All Programs <span><LuMoveRight /></span>
                                                          </Link>
                                                </div>
                                     </div>
