@@ -30,11 +30,12 @@ const AboutBody = () => {
                                   <div className="statement-texts">
                                              <div className="statement-moja">
                                                         <h3>Our Mission</h3>
-                                                        <p>To courageously expand God&apos;s Kingdom by demostrating Christ&apos;s love through dynamic acts of service and compassion, firmly rooted in biblical principles.</p>
+                                                        {/* <p>To courageously expand God&apos;s Kingdom by demostrating Christ&apos;s love through dynamic acts of service and compassion, firmly rooted in biblical principles.</p> */}
+                                                        <p>Our mission is to boldly advance God’s Kingdom by showcasing Christ’s love through vibrant acts of service and compassion! Grounded in biblical principles. </p>
                                              </div>
                                              <div className="statement-moja">
                                                          <h3>Our Vision</h3>
-                                                         <p>To build a Christ-centered fellowship that brings hope and transformation to the less fortunate, empowering the global community through faith and love, all for the glory of God</p>
+                                                         <p>To cultivate a Christ-centered fellowship that brings hope and transformation to the less fortunate, Empowering The Global community through Faith with Love all for the glory of God.</p>
                                              </div>
                                   </div>
                        </div>

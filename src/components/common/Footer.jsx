@@ -20,7 +20,7 @@ const Footer = () => {
                                                <div className="footer-column">
                                                         <h3>Be a Vessel of Change Today</h3>
                                                         <p>Connect with us today and be part of a mission transforming lives for God&apos;s glory.</p>
-                                                        <Link to={"/contact-us"} className="footer-link">Let&apos;s Connect <span><LuMoveRight /></span></Link>
+                                                        <Link to={"/get-in-touch"} className="footer-link">Let&apos;s Connect <span><LuMoveRight /></span></Link>
                                                </div>
                                                <div className="footer-column">
                                                          <h4>We are here</h4>

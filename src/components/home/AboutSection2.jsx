@@ -10,7 +10,7 @@ const AboutSection2 = () => {
                         <div className="about-section-content">
                                       <div className="about-section-column">
                                                    <h3>Who We Are</h3>
-                                                   <h2>We are a faith-driven organization committed to transforming the lives of vulnerable children.</h2>
+                                                   <h2>Koinonia Kingdom Network is a faith-based organization dedicated to advancing God’s Kingdom by transforming lives through acts of service, compassion, and love.</h2>
 
                                                    <img src={about1} alt="" />
                                       </div>

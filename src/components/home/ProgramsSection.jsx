@@ -1,10 +1,11 @@
-import { Link } from "react-router-dom"
+import { Link, useNavigate } from "react-router-dom"
 import { LuMoveRight } from "react-icons/lu";
 import children from "../../assets/children.jpg"
 import church from "../../assets/church-building.jpg"
 import missions from "../../assets/mission.jpg"
 
 const ProgramsSection = () => {
+  const navigate = useNavigate();
   return (
     <div className="program-section">
               <div className="inner-row">
@@ -24,7 +25,7 @@ const ProgramsSection = () => {
                                     </div>
 
                                     <div className="programs-row">
-                                                <div className="program-moja">
+                                                <div className="program-moja" onClick={() => navigate("/what-we-do/childrens-homes-and-orphanage-care")}>
                                                            <div className="program-image">
                                                                     <img src={children} alt="" />
                                                                     <span><LuMoveRight /></span>
@@ -37,7 +38,7 @@ const ProgramsSection = () => {
                                                            </div>
                                                 </div>
 
-                                                <div className="program-moja">
+                                                <div className="program-moja" onClick={() => navigate("/what-we-do/community-church-empowerment")}>
                                                            <div className="program-image">
                                                                     <img src={church} alt="" />
                                                                     <span><LuMoveRight /></span>
@@ -46,10 +47,10 @@ const ProgramsSection = () => {
 
                                                            <div className="program-texts">
                                                                     <h3>impact</h3>
-                                                                    <h2>Community Church Building</h2>
+                                                                    <h2>Community Church Empowerment</h2>
                                                            </div>
                                                 </div>
-                                                <div className="program-moja">
+                                                <div className="program-moja" onClick={()=> navigate("/what-we-do/global-mission-outreach")}>
                                                            <div className="program-image">
                                                                     <img src={missions} alt="" />
                                                                     <span><LuMoveRight /></span>

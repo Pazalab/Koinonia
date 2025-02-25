@@ -1,4 +1,4 @@
-import AboutPartners from "../components/about/AboutPartners"
+//import AboutPartners from "../components/about/AboutPartners"
 import Footer from "../components/common/Footer"
 import Navbar from "../components/common/navigation/Navbar"
 import ActivitiesStrip from "../components/home/ActivitiesStrip"
@@ -15,7 +15,7 @@ const Programs = () => {
              <ProgramsBody />
              <ActivitiesStrip />
              <DonationSection />
-             <AboutPartners />
+             {/* <AboutPartners /> */}
              <Footer />
     </>
   )

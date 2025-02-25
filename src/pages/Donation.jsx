@@ -12,7 +12,7 @@ const Donation = () => {
                       <DonationHero />
            </div>
            <DonationBody />
-           <AboutPartners />
+           {/* <AboutPartners /> */}
            <Footer />
     </>
   )

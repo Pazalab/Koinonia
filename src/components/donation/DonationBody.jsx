@@ -5,7 +5,7 @@ const DonationBody = () => {
     <div className="donation-body">
               <div className="inner-row">
                           <div className="donation-body-content">
-                                     <h3>Your generosity has the power to change lives. Every contribution, big or small, helps us bring hope, provide essential resources, and create opportunities for those in need. Join us in building a brighter future—your donation can spark lasting impact.</h3>
+                                     <h3>Through your generosity, lives are touched, souls are uplifted, and communities are restored. Every contribution, big or small, brings hope, provides essential resources, and creates opportunities for those in need. Be part of this great mission to make a difference for God’s glory—your support can spark a lasting impact and build a brighter future.</h3>
 
                                      <DonationForm />
                           </div>
